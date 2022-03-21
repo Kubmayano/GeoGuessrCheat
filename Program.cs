@@ -43,9 +43,9 @@ namespace GeoGuessrCheat
         {
             Console.ForegroundColor = ConsoleColor.Blue; //Blue as a console color is super important
 
-            while(true) //Testing something 
+            while(true)
             {
-                await RequestJsonData("uG9mJWXmetDC7Oet");
+                await RequestJsonData("uG9mJWXmetDC7Oet"); //Currently no idea how to fetch the game token automatically
                 foreach(var obj in GetLocation())
                 {
                     System.Console.WriteLine(obj);
