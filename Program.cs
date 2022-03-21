@@ -26,7 +26,6 @@ namespace GeoGuessrCheat
         {
             string[] location = new string[2]; //We only need coordinates + country code so size is 2
             string data = File.ReadAllText("JsonData.json");
-
             dynamic? JsonData = JsonConvert.DeserializeObject(data);
 
             if (JsonData != null)
@@ -45,7 +44,7 @@ namespace GeoGuessrCheat
 
             while(true)
             {
-                await RequestJsonData("YourTokenHere"); //Currently no idea how to fetch the game token automatically
+                await RequestJsonData("Y2Vt1msCqff1F14D"); //Currently no idea how to fetch the game token automatically
                 foreach(var obj in GetLocation())
                 {
                     System.Console.WriteLine(obj);
