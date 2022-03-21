@@ -1,0 +1,212 @@
+{
+  "token": "uG9mJWXmetDC7Oet",
+  "type": "standard",
+  "mode": "streak",
+  "state": "started",
+  "roundCount": 5,
+  "timeLimit": 0,
+  "forbidMoving": true,
+  "forbidZooming": false,
+  "forbidRotating": false,
+  "streakType": "countrystreak",
+  "map": "country-streak",
+  "mapName": "Country Streak",
+  "panoramaProvider": 0,
+  "bounds": {
+    "min": {
+      "lat": 90,
+      "lng": 180
+    },
+    "max": {
+      "lat": -90,
+      "lng": -180
+    }
+  },
+  "round": 5,
+  "rounds": [
+    {
+      "lat": 33.821372985839844,
+      "lng": 132.06834411621094,
+      "panoId": "6469574C64396D6269393249497A563732574D7A4541",
+      "heading": 0,
+      "pitch": 0,
+      "zoom": 0,
+      "streakLocationCode": "jp"
+    },
+    {
+      "lat": 37.60114288330078,
+      "lng": 127.06208801269531,
+      "panoId": "51726831437A5437643278434633415A556662717851",
+      "heading": 0,
+      "pitch": 0,
+      "zoom": 0,
+      "streakLocationCode": "kr"
+    },
+    {
+      "lat": 1.3566454648971558,
+      "lng": 103.69390106201172,
+      "panoId": "436C44463943513165445A6844335161587546395541",
+      "heading": 0,
+      "pitch": 0,
+      "zoom": 0,
+      "streakLocationCode": "sg"
+    },
+    {
+      "lat": 40.29098129272461,
+      "lng": 141.40487670898438,
+      "panoId": "46525265426554443737685F48637551474B4D394777",
+      "heading": 0,
+      "pitch": 0,
+      "zoom": 0,
+      "streakLocationCode": "jp"
+    },
+    {
+      "lat": 45.811363220214844,
+      "lng": 15.976180076599121,
+      "panoId": "744E5379716F6D5873753363385336353344666F5F77",
+      "heading": 0,
+      "pitch": 0,
+      "zoom": 0,
+      "streakLocationCode": "hr"
+    }
+  ],
+  "player": {
+    "totalScore": {
+      "amount": "32",
+      "unit": "points",
+      "percentage": 0.128
+    },
+    "totalDistance": {
+      "meters": {
+        "amount": "52554.1",
+        "unit": "km"
+      },
+      "miles": {
+        "amount": "32655.6",
+        "unit": "miles"
+      }
+    },
+    "totalDistanceInMeters": 52554099.47126687,
+    "totalTime": 34,
+    "totalStreak": 4,
+    "guesses": [
+      {
+        "lat": 0,
+        "lng": 0,
+        "timedOut": false,
+        "timedOutWithGuess": false,
+        "roundScore": {
+          "amount": "5",
+          "unit": "points",
+          "percentage": 0.1
+        },
+        "roundScoreInPercentage": 0.1,
+        "roundScoreInPoints": 5,
+        "distance": {
+          "meters": {
+            "amount": "13768.5",
+            "unit": "km"
+          },
+          "miles": {
+            "amount": "8555.4",
+            "unit": "miles"
+          }
+        },
+        "distanceInMeters": 13768528.83783652,
+        "streakLocationCode": "jp",
+        "time": 17
+      },
+      {
+        "lat": 0,
+        "lng": 0,
+        "timedOut": false,
+        "timedOutWithGuess": false,
+        "roundScore": {
+          "amount": "7",
+          "unit": "points",
+          "percentage": 0.14
+        },
+        "roundScoreInPercentage": 0.14,
+        "roundScoreInPoints": 7,
+        "distance": {
+          "meters": {
+            "amount": "13179",
+            "unit": "km"
+          },
+          "miles": {
+            "amount": "8189.1",
+            "unit": "miles"
+          }
+        },
+        "distanceInMeters": 13178999.431262746,
+        "streakLocationCode": "kr",
+        "time": 5
+      },
+      {
+        "lat": 0,
+        "lng": 0,
+        "timedOut": false,
+        "timedOutWithGuess": false,
+        "roundScore": {
+          "amount": "16",
+          "unit": "points",
+          "percentage": 0.32
+        },
+        "roundScoreInPercentage": 0.32,
+        "roundScoreInPoints": 16,
+        "distance": {
+          "meters": {
+            "amount": "11529.8",
+            "unit": "km"
+          },
+          "miles": {
+            "amount": "7164.3",
+            "unit": "miles"
+          }
+        },
+        "distanceInMeters": 11529800.583974397,
+        "streakLocationCode": "sg",
+        "time": 8
+      },
+      {
+        "lat": 0,
+        "lng": 0,
+        "timedOut": false,
+        "timedOutWithGuess": false,
+        "roundScore": {
+          "amount": "4",
+          "unit": "points",
+          "percentage": 0.08
+        },
+        "roundScoreInPercentage": 0.08,
+        "roundScoreInPoints": 4,
+        "distance": {
+          "meters": {
+            "amount": "14076.8",
+            "unit": "km"
+          },
+          "miles": {
+            "amount": "8746.9",
+            "unit": "miles"
+          }
+        },
+        "distanceInMeters": 14076770.618193211,
+        "streakLocationCode": "jp",
+        "time": 4
+      }
+    ],
+    "isLeader": false,
+    "currentPosition": 0,
+    "pin": {
+      "url": "",
+      "anchor": "center-center",
+      "isDefault": true
+    },
+    "newBadges": [],
+    "explorer": null,
+    "id": "5b54d02c7135fa0e48b2984e",
+    "nick": "Kubmayano",
+    "isVerified": false
+  },
+  "progressChange": null
+}

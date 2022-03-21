@@ -1,0 +1,17 @@
+C:\Users\Elliot\Desktop\VSCodeProjs\CSharpProjs\GeoGuessrCheat\obj\Debug\net6.0\GeoGuessrCheat.csproj.AssemblyReference.cache
+C:\Users\Elliot\Desktop\VSCodeProjs\CSharpProjs\GeoGuessrCheat\obj\Debug\net6.0\GeoGuessrCheat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elliot\Desktop\VSCodeProjs\CSharpProjs\GeoGuessrCheat\obj\Debug\net6.0\GeoGuessrCheat.AssemblyInfoInputs.cache
+C:\Users\Elliot\Desktop\VSCodeProjs\CSharpProjs\GeoGuessrCheat\obj\Debug\net6.0\GeoGuessrCheat.AssemblyInfo.cs
+C:\Users\Elliot\Desktop\VSCodeProjs\CSharpProjs\GeoGuessrCheat\obj\Debug\net6.0\GeoGuessrCheat.csproj.CoreCompileInputs.cache
+C:\Users\Elliot\Desktop\VSCodeProjs\CSharpProjs\GeoGuessrCheat\bin\Debug\net6.0\GeoGuessrCheat.exe
+C:\Users\Elliot\Desktop\VSCodeProjs\CSharpProjs\GeoGuessrCheat\bin\Debug\net6.0\GeoGuessrCheat.deps.json
+C:\Users\Elliot\Desktop\VSCodeProjs\CSharpProjs\GeoGuessrCheat\bin\Debug\net6.0\GeoGuessrCheat.runtimeconfig.json
+C:\Users\Elliot\Desktop\VSCodeProjs\CSharpProjs\GeoGuessrCheat\bin\Debug\net6.0\GeoGuessrCheat.dll
+C:\Users\Elliot\Desktop\VSCodeProjs\CSharpProjs\GeoGuessrCheat\bin\Debug\net6.0\ref\GeoGuessrCheat.dll
+C:\Users\Elliot\Desktop\VSCodeProjs\CSharpProjs\GeoGuessrCheat\bin\Debug\net6.0\GeoGuessrCheat.pdb
+C:\Users\Elliot\Desktop\VSCodeProjs\CSharpProjs\GeoGuessrCheat\obj\Debug\net6.0\GeoGuessrCheat.dll
+C:\Users\Elliot\Desktop\VSCodeProjs\CSharpProjs\GeoGuessrCheat\obj\Debug\net6.0\ref\GeoGuessrCheat.dll
+C:\Users\Elliot\Desktop\VSCodeProjs\CSharpProjs\GeoGuessrCheat\obj\Debug\net6.0\GeoGuessrCheat.pdb
+C:\Users\Elliot\Desktop\VSCodeProjs\CSharpProjs\GeoGuessrCheat\obj\Debug\net6.0\GeoGuessrCheat.genruntimeconfig.cache
+C:\Users\Elliot\Desktop\VSCodeProjs\CSharpProjs\GeoGuessrCheat\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Elliot\Desktop\VSCodeProjs\CSharpProjs\GeoGuessrCheat\obj\Debug\net6.0\GeoGuessrCheat.csproj.CopyComplete
