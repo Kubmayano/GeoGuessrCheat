@@ -39,9 +39,9 @@ namespace GeoGuessrCheat
             return location;
         }
 
-        public static async Task Main(string[] args)
+        public static async Task Main(string[] args) 
         {
-            Console.ForegroundColor = ConsoleColor.Blue;
+            Console.ForegroundColor = ConsoleColor.Blue; //Blue as a console color is super important
 
             while(true)
             {
