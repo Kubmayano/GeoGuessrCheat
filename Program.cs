@@ -51,8 +51,14 @@ namespace GeoGuessrCheat
                     System.Console.WriteLine(obj);
                 }
 
-                Console.ReadKey();
+                if (Console.ReadKey().Key == ConsoleKey.Backspace)
+                {
+                    break;
+                }
             }
+
+            File.WriteAllText("JsonData.json", ""); //Simply clears the Json data file before closing
+            Environment.Exit(0);
         }
     }
 }
