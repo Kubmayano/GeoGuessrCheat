@@ -43,7 +43,7 @@ namespace GeoGuessrCheat
         {
             Console.ForegroundColor = ConsoleColor.Blue; //Blue as a console color is super important
 
-            while(true)
+            while(true) //Testing something 
             {
                 await RequestJsonData("uG9mJWXmetDC7Oet");
                 foreach(var obj in GetLocation())
