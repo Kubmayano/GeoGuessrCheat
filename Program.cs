@@ -44,7 +44,7 @@ namespace GeoGuessrCheat
 
             while(true)
             {
-                await RequestJsonData("Y2Vt1msCqff1F14D"); //Currently no idea how to fetch the game token automatically
+                await RequestJsonData("1D10JolW30HVOF3m"); //Currently no idea how to fetch the game token automatically
                 foreach(var obj in GetLocation())
                 {
                     System.Console.WriteLine(obj);
